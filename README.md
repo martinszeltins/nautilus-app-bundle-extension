@@ -19,3 +19,13 @@ sudo apt install -y git curl python3-nautilus python3-charset-normalizer at pyth
 cp app-bundle-nautilus-extension.py ~/.local/share/nautilus-python/extensions/
 nautilus -q
 ```
+
+## Usage
+
+Simply create a directory ending with `.app` with these files inside:
+
+- icon.png - The icon for the app.
+- executable - The executable file for the app.
+- app.desktop - The .desktop file for the app.
+
+The Exec and Icon fields point to the executable and icon files respectively. When the app is installed, these paths are converted to absolute paths to the installed location.
