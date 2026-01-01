@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Speedtest
+Exec=Speetest-x86-64.AppImage
+Icon=icon.png
+Terminal=false
+Categories=Network;
+WMClass=Speedtest by Ookla - The Global Broadband Speed Test
+StartupNotify=true
+
+
