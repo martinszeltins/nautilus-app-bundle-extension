@@ -1,6 +1,6 @@
 # App Bundle Nautilus Extension
 
-This extension adds support for .app bundles in Nautilus file manager.
+This extension adds support for .app bundles in Nautilus file manager (similar to MacOS .app bundles).
 
 - Looks at the .desktop file inside the .app bundle to get the executable and icon.
 - Shows custom icon for .app bundles.
