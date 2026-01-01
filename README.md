@@ -4,7 +4,7 @@ This extension adds support for .app bundles in Nautilus file manager (similar t
 
 - Looks at the .desktop file inside the .app bundle to get the executable and icon.
 - Shows custom icon for .app bundles.
-- Adds a context menu item "Launch Application" for .app bundles.
+- Adds a context menu item "Launch Application" for .app bundles. This is because Nautilus extensions do not allow overriding the "open" behavior.
 - Prompts the user to install the app on first launch.
 - Installation copies the .app bundle to ~/Applications/ and creates a .desktop file in ~/.local/share/applications/.
 
