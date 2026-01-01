@@ -1,4 +1,4 @@
-# App Bundle Nautlus Extension
+# App Bundle Nautilus Extension
 
 This extension adds support for .app bundles in Nautilus file manager.
 
