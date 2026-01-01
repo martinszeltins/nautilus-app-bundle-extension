@@ -8,6 +8,8 @@ This extension adds support for .app bundles in Nautilus file manager.
 - Prompts the user to install the app on first launch.
 - Installation copies the .app bundle to ~/Applications/ and creates a .desktop file in ~/.local/share/applications/.
 
+![Screenshot](screenshot.jpg)
+
 ## Installation
 
 ```bash
